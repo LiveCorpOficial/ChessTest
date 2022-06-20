@@ -1,0 +1,10 @@
+E:\Projects\Unity Projects\library\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+E:\Projects\Unity Projects\library\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+E:\Projects\Unity Projects\library\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+E:\Projects\Unity Projects\library\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.AssemblyReference.cache
+E:\Projects\Unity Projects\library\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Unity Projects\library\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+E:\Projects\Unity Projects\library\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+E:\Projects\Unity Projects\library\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+E:\Projects\Unity Projects\library\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+E:\Projects\Unity Projects\library\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.pdb

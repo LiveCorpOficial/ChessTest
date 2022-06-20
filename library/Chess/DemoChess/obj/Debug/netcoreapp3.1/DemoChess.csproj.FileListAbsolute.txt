@@ -1,0 +1,17 @@
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\DemoChess.exe
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\DemoChess.deps.json
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\DemoChess.runtimeconfig.json
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\DemoChess.runtimeconfig.dev.json
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\DemoChess.dll
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\DemoChess.pdb
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\Chess.dll
+E:\Projects\Unity Projects\library\Chess\DemoChess\bin\Debug\netcoreapp3.1\Chess.pdb
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.csproj.AssemblyReference.cache
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.AssemblyInfoInputs.cache
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.AssemblyInfo.cs
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.csproj.CoreCompileInputs.cache
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.csproj.CopyComplete
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.dll
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.pdb
+E:\Projects\Unity Projects\library\Chess\DemoChess\obj\Debug\netcoreapp3.1\DemoChess.genruntimeconfig.cache
